@@ -1,0 +1,220 @@
+[
+    {
+      "id": 1,
+      "title": "Aula 1",
+      "topics": [
+        "Introdução ao curso",
+        "Apresentação do Figma: Interface e Ferramentas Básicas",
+        "Breve História do Design Gráfico",
+        "Fundamentos do Design: Composição, Tipografia e Cores"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Aula 2",
+      "topics": [
+        "Prática com Figma: Criando Formas Básicas e Manipulando Camadas",
+        "Discussão sobre os princípios do design: contraste, repetição, alinhamento e proximidade.",
+        "Exercício de Composição: Criando um Cartão de Visita"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Aula 3",
+      "topics": [
+        "Avaliação Cartões de visita",
+        "Explorando recursos avançados do figma: Estilos, Componentes e Plugin",
+        "Análise de Cases de Design Gráfico",
+        "Exercício de Design de logotipo"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Aula 4",
+      "topics": [
+        "Avaliação exercício",
+        "Revisão dos Conceitos Abordados até o Momento",
+        "Discussão em grupo sobre os projetos",
+        "Projeto Final do Mês: Criando um Layout de Redes Sociais no Figma"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Aula 5",
+      "topics": [
+        "Recapitulação do Mês Anterior e Resolução de Dúvidas",
+        "Profundidade no Uso de Cores: Teoria e Prática",
+        "Exercício: Criando um Pôster Utilizando Gradientes e Paletas de Cores"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Aula 6",
+      "topics": [
+        "Trabalhando com Texto no Figma: Formatação, Espaçamento e Hierarquia Visual",
+        "Discussão sobre Grids e Hierarquia Visual",
+        "Exercício de Layout Editorial: Criando uma Capa de Revista"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Aula 7",
+      "topics": [
+        "Discussão sobre projetos",
+        "Explorando Animações e Prototipagem no Figma",
+        "Discussão sobre usabilidade e Experiência do Usuário (UX)",
+        "Exercício: Criando um Protótipo de Interface de Aplicativo"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Aula 8",
+      "topics": [
+        "Revisão do Mês e Feedback dos Projetos",
+        "Projeto final do mês: Prototipagem de um site RESPONSIVO em aula para sanar dúvidas."
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Aula 9",
+      "topics": [
+        "Revisão do Mês anterior e Resolução de Dúvidas",
+        "Explorando Ferramentas de Ilustração Vetorial no Figma",
+        "Exercício: Criando Ícones de Ilustrações Simples"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Aula 10",
+      "topics": [
+        "Introdução ao Trabalho com Tipografia Avançada: Fontes Variáveis, OpenType, etc.",
+        "Discussão sobre Hierarquia Visual e Legibilidade",
+        "Exercício de Tipografia: Criando um Cartaz Tipográfico"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Aula 11",
+      "topics": [
+        "Abordagem ao Design de Interfaces para Dispositivos Móveis",
+        "Discussão sobre práticas de design responsivo",
+        "Exercício: Design de UI para Aplicativo Mobile no Figma"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Aula 12",
+      "topics": [
+        "Revisão do Mês e feedback dos projetos",
+        "Projeto Final do Mês: Criando um Protótipo Interativo de App (início acompanhado do professor para sanar dúvidas)"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Aula 13",
+      "topics": [
+        "Recapitulação do Mês anterior e resolução de dúvidas",
+        "Explorando técnicas de ilustração e manipulação de imagens no Figma",
+        "Exercício: Criando um Pôster Ilustrado"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Aula 14",
+      "topics": [
+        "Abordagem ao design de Embalagens e Identidade Visual de Marcas",
+        "Discussão sobre branding e Identidade Corporativa",
+        "Exercício de Design de Embalagem: Criando MockUp de Produto"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Aula 15",
+      "topics": [
+        "Introdução ao Design de Experiência do Usuário (UX Design)",
+        "Discussão sobre Testes de Usabilidade e Pesquisa de Usuários",
+        "Exercício Prático: Criando Mapas de Jornada do Usuário"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Aula 16",
+      "topics": [
+        "Revisão e feedback dos projetos",
+        "Projeto Final do Mês: Criando um Protótipo de E-commerce (junto ao professor para sanar dúvidas)"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Aula 17",
+      "topics": [
+        "Revisão do Mês anterior e resolução de dúvidas",
+        "Explorando o Design de INterface para Web: Princípios e Técnicas Avançadas",
+        "Exercício Prático: Criando um Layout de Página Responsiva no Figma"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Aula 18",
+      "topics": [
+        "Abordagem ao Design de Infográficos e Visualização de Dados",
+        "Discussão sobre Storytelling Visual",
+        "Exercício de Design de Infográfico: Criando uma visualização de dados interativa"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Aula 19",
+      "topics": [
+        "Introdução ao Design de Motion Graphics",
+        "Discussão sobre Técnicas de Animação e Timing",
+        "Exercício Prático: Criando Animações Simples no Figma"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Aula 20",
+      "topics": [
+        "Revisão do Mês e Feedback de Projetos",
+        "Apresentação dos Projetos e Discussão em grupo",
+        "Projeto Final do Mês: Criando um anúncio Publicitário Animado"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Aula 21",
+      "topics": [
+        "Recapitulação do Curso e Revisão de Tópicos-Chave",
+        "Tendências Atuais no Design Gráfico e Digital",
+        "Discussão sobre Carreira e Mercado de Trabalho em Design"
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Aula 22",
+      "topics": [
+        "Desenvolvimento do Portfólio: Estratégias e Melhores Práticas",
+        "Revisão de Projetos Anteriores e Aconselhamento Individual",
+        "Projeto Final: Criação de Portfólio com todos os exercícios feitos até o momento.",
+        "Preparação para a apresentação final"
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Aula 23",
+      "topics": [
+        "Sessões de Apresentação de Portfólio de Feedback dos Colegas e instrutor",
+        "Discussão sobre Oportunidades Profissionais"
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Aula 24 (final)",
+      "topics": [
+        "Encerramento do Curso: Avaliação Final",
+        "Celebração com os alunos e plantão de dúvidas",
+        "Considerações Finais e Despedida"
+      ]
+    }
+  ]
+  
